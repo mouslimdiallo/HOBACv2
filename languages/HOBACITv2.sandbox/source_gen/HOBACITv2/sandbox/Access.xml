@@ -1,8 +1,37 @@
 <?xml version = "1.0"?>
-<Policy xmlns="urn:oasis:names:tc:xacml:3.0:core:schema:wd-17" PolicyId="Access" RuleCombiningAlgId="CombinRegle" Version="">  
-  <Apply>    
-    <child></child>
+<Policy xmlns="urn:oasis:names:tc:xacml:3.0:core:schema:wd-17" PolicyId="FamilyAccessPolicy" RuleCombiningAlgId="urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:permit-overrides" Version="">  
+  <Target>    
+    <AnyOf>      
+      <AllOf>        
+        <Match MatchId="id">          
+          <AttributeValue DataType="data">text</AttributeValue>
+          <AttributeDesignator AttributeId="id" Category="category" DataType="data" MustBePresent="result">            
+            
+          </AttributeDesignator>
+          
+        </Match>
+        
+      </AllOf>
+      
+    </AnyOf>
     
-  </Apply>
+  </Target>
+  <Rule RuledId="AllowFamilyAccess" Effect="HOBACITv2.sandbox.Rule1">    
+    <Condition>      
+      <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-is-in">        
+        <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string"></AttributeValue>
+        <AttributeDesignator AttributeID="group" Category="urn:oasis:names:tc:xacml:3.0:attribute-category:group" DataType="http://www.w3.org/2001/XMLSchema#string" MuseBePresent="true">          
+          
+        </AttributeDesignator>
+        <AttributeDesignator AttributeID="famil" Category="urn:oasis:names:tc:xacml:3.0:attribute-category:famil" DataType="http://www.w3.org/2001/XMLSchema#string" MuseBePresent="true">          
+          
+        </AttributeDesignator>
+        
+      </Apply>
+      
+    </Condition>
+    
+  </Rule>
+  
   
 </Policy>

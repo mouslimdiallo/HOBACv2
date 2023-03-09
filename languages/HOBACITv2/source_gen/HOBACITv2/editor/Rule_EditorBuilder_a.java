@@ -123,7 +123,7 @@ import org.jetbrains.mps.openapi.language.SConcept;
     return editorCell;
   }
   private EditorCell createConstant_2() {
-    EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, "id:");
+    EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, "Id:");
     editorCell.setCellId("Constant_z0m96w_d0");
     Style style = new StyleImpl();
     style.set(StyleAttributes.INDENT_LAYOUT_ON_NEW_LINE, true);
@@ -202,7 +202,7 @@ import org.jetbrains.mps.openapi.language.SConcept;
     return editorCell;
   }
   private EditorCell createConstant_5() {
-    EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, "condition:");
+    EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, "Condition:");
     editorCell.setCellId("Constant_z0m96w_i0");
     Style style = new StyleImpl();
     style.set(StyleAttributes.INDENT_LAYOUT_ON_NEW_LINE, true);
@@ -286,7 +286,7 @@ import org.jetbrains.mps.openapi.language.SConcept;
     }
   }
   private EditorCell createConstant_6() {
-    EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, "apply:");
+    EditorCell_Constant editorCell = new EditorCell_Constant(getEditorContext(), myNode, "Apply:");
     editorCell.setCellId("Constant_z0m96w_k0");
     Style style = new StyleImpl();
     style.set(StyleAttributes.INDENT_LAYOUT_ON_NEW_LINE, true);

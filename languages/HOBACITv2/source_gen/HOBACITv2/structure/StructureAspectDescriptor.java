@@ -192,7 +192,6 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
     b.origin("r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003744258");
     b.version(3);
-    b.property("attributeId", 0x36d641ea276c3ad3L).type(PrimitiveTypeId.STRING).origin("3951418197003746003").done();
     b.property("dataType", 0x36d641ea276c3fcfL).type(PrimitiveTypeId.STRING).origin("3951418197003747279").done();
     return b.create();
   }
@@ -240,8 +239,8 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.origin("r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003818174");
     b.version(3);
     b.property("matchId", 0x36d641ea276d5835L).type(PrimitiveTypeId.STRING).origin("3951418197003819061").done();
-    b.associate("attrV", 0x36d641ea2782cbdfL).target(0x3fbb45ee81da477eL, 0xba7df1b8ec591273L, 0x36d641ea276c3402L).optional(false).origin("3951418197005224927").done();
-    b.associate("designV", 0x36d641ea2782d15dL).target(0x3fbb45ee81da477eL, 0xba7df1b8ec591273L, 0x36d641ea276c516aL).optional(false).origin("3951418197005226333").done();
+    b.associate("attributeValue", 0x36d641ea2782cbdfL).target(0x3fbb45ee81da477eL, 0xba7df1b8ec591273L, 0x36d641ea276c3402L).optional(false).origin("3951418197005224927").done();
+    b.associate("attributeDesignator", 0x36d641ea2782d15dL).target(0x3fbb45ee81da477eL, 0xba7df1b8ec591273L, 0x36d641ea276c516aL).optional(false).origin("3951418197005226333").done();
     return b.create();
   }
   private static ConceptDescriptor createDescriptorForPolicy() {
@@ -255,13 +254,13 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.property("maxDelegationDepth", 0x36d641ea276c0b7dL).type(PrimitiveTypeId.STRING).origin("3951418197003733885").done();
     b.property("description", 0x36d641ea276c0f77L).type(PrimitiveTypeId.STRING).origin("3951418197003734903").done();
     b.property("version", 0x36d641ea277a1964L).type(PrimitiveTypeId.STRING).origin("3951418197004654948").done();
-    b.associate("target", 0x36d641ea27861fe5L).target(0x3fbb45ee81da477eL, 0xba7df1b8ec591273L, 0x36d641ea276b9907L).optional(false).origin("3951418197005443045").done();
     b.aggregate("rules", 0x36d641ea276b9250L).target(0x3fbb45ee81da477eL, 0xba7df1b8ec591273L, 0x36d641ea276b8152L).optional(false).ordered(true).multiple(true).origin("3951418197003702864").done();
+    b.aggregate("target", 0x18cdb4f874e29a7bL).target(0x3fbb45ee81da477eL, 0xba7df1b8ec591273L, 0x36d641ea276b9907L).optional(false).ordered(true).multiple(false).origin("1787283606341851771").done();
     return b.create();
   }
   private static ConceptDescriptor createDescriptorForPolicySet() {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("HOBACITv2", "PolicySet", 0x3fbb45ee81da477eL, 0xba7df1b8ec591273L, 0x36d641ea276b77f4L);
-    b.class_(false, false, true);
+    b.class_(false, false, false);
     b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
     b.origin("r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003696116");
     b.version(3);

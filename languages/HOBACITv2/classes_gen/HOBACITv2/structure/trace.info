@@ -19,7 +19,7 @@
       <unit at="10,0,68,0" name="HOBACITv2.structure.LanguageConceptSwitch" />
     </file>
     <file name="StructureAspectDescriptor.java">
-      <unit at="18,0,333,0" name="HOBACITv2.structure.StructureAspectDescriptor" />
+      <unit at="18,0,332,0" name="HOBACITv2.structure.StructureAspectDescriptor" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003696116">
@@ -42,19 +42,19 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003696116" at="33,0,34,0" concept="2" trace="myConceptPolicySet" />
       <node id="3951418197003696116" at="91,43,92,34" concept="6" />
-      <node id="3951418197003696116" at="262,67,263,153" concept="5" />
-      <node id="3951418197003696116" at="263,153,264,33" concept="1" />
-      <node id="3951418197003696116" at="264,33,265,71" concept="1" />
-      <node id="3951418197003696116" at="265,71,266,96" concept="1" />
-      <node id="3951418197003696116" at="266,96,267,17" concept="1" />
-      <node id="3951418197003699716" at="267,17,268,198" concept="1" />
-      <node id="3951418197003696116" at="268,198,269,22" concept="6" />
-      <node id="3951418197003696116" at="262,0,271,0" concept="8" trace="createDescriptorForPolicySet#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003696116" at="261,67,262,153" concept="5" />
+      <node id="3951418197003696116" at="262,153,263,34" concept="1" />
+      <node id="3951418197003696116" at="263,34,264,71" concept="1" />
+      <node id="3951418197003696116" at="264,71,265,96" concept="1" />
+      <node id="3951418197003696116" at="265,96,266,17" concept="1" />
+      <node id="3951418197003699716" at="266,17,267,198" concept="1" />
+      <node id="3951418197003696116" at="267,198,268,22" concept="6" />
+      <node id="3951418197003696116" at="261,0,270,0" concept="8" trace="createDescriptorForPolicySet#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003696116" at="91,43,92,34" />
-      <scope id="3951418197003696116" at="262,67,269,22">
+      <scope id="3951418197003696116" at="261,67,268,22">
         <var name="b" id="3951418197003696116" />
       </scope>
-      <scope id="3951418197003696116" at="262,0,271,0" />
+      <scope id="3951418197003696116" at="261,0,270,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003697627">
@@ -77,25 +77,25 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003697627" at="32,0,33,0" concept="2" trace="myConceptPolicy" />
       <node id="3951418197003697627" at="89,40,90,31" concept="6" />
-      <node id="3951418197003697627" at="247,64,248,150" concept="5" />
-      <node id="3951418197003697627" at="248,150,249,33" concept="1" />
-      <node id="3951418197003697627" at="249,33,250,71" concept="1" />
-      <node id="3951418197003697627" at="250,71,251,96" concept="1" />
-      <node id="3951418197003697627" at="251,96,252,17" concept="1" />
-      <node id="3951418197003731696" at="252,17,253,114" concept="1" />
-      <node id="3951418197003732374" at="253,114,254,124" concept="1" />
-      <node id="3951418197003733885" at="254,124,255,124" concept="1" />
-      <node id="3951418197003734903" at="255,124,256,117" concept="1" />
-      <node id="3951418197004654948" at="256,117,257,113" concept="1" />
-      <node id="3951418197005443045" at="257,113,258,170" concept="1" />
-      <node id="3951418197003702864" at="258,170,259,198" concept="1" />
-      <node id="3951418197003697627" at="259,198,260,22" concept="6" />
-      <node id="3951418197003697627" at="247,0,262,0" concept="8" trace="createDescriptorForPolicy#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003697627" at="246,64,247,150" concept="5" />
+      <node id="3951418197003697627" at="247,150,248,33" concept="1" />
+      <node id="3951418197003697627" at="248,33,249,71" concept="1" />
+      <node id="3951418197003697627" at="249,71,250,96" concept="1" />
+      <node id="3951418197003697627" at="250,96,251,17" concept="1" />
+      <node id="3951418197003731696" at="251,17,252,114" concept="1" />
+      <node id="3951418197003732374" at="252,114,253,124" concept="1" />
+      <node id="3951418197003733885" at="253,124,254,124" concept="1" />
+      <node id="3951418197003734903" at="254,124,255,117" concept="1" />
+      <node id="3951418197004654948" at="255,117,256,113" concept="1" />
+      <node id="3951418197003702864" at="256,113,257,198" concept="1" />
+      <node id="1787283606341851771" at="257,198,258,200" concept="1" />
+      <node id="3951418197003697627" at="258,200,259,22" concept="6" />
+      <node id="3951418197003697627" at="246,0,261,0" concept="8" trace="createDescriptorForPolicy#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003697627" at="89,40,90,31" />
-      <scope id="3951418197003697627" at="247,64,260,22">
+      <scope id="3951418197003697627" at="246,64,259,22">
         <var name="b" id="3951418197003697627" />
       </scope>
-      <scope id="3951418197003697627" at="247,0,262,0" />
+      <scope id="3951418197003697627" at="246,0,261,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003698514">
@@ -118,23 +118,23 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003698514" at="36,0,37,0" concept="2" trace="myConceptRule" />
       <node id="3951418197003698514" at="97,38,98,29" concept="6" />
-      <node id="3951418197003698514" at="290,62,291,148" concept="5" />
-      <node id="3951418197003698514" at="291,148,292,34" concept="1" />
-      <node id="3951418197003698514" at="292,34,293,71" concept="1" />
-      <node id="3951418197003698514" at="293,71,294,96" concept="1" />
-      <node id="3951418197003698514" at="294,96,295,17" concept="1" />
-      <node id="3951418197003720764" at="295,17,296,112" concept="1" />
-      <node id="3951418197003721286" at="296,112,297,177" concept="1" />
-      <node id="3951418197003727188" at="297,177,298,201" concept="1" />
-      <node id="3951418197003728308" at="298,201,299,200" concept="1" />
-      <node id="3951418197005221214" at="299,200,300,197" concept="1" />
-      <node id="3951418197003698514" at="300,197,301,22" concept="6" />
-      <node id="3951418197003698514" at="290,0,303,0" concept="8" trace="createDescriptorForRule#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003698514" at="289,62,290,148" concept="5" />
+      <node id="3951418197003698514" at="290,148,291,34" concept="1" />
+      <node id="3951418197003698514" at="291,34,292,71" concept="1" />
+      <node id="3951418197003698514" at="292,71,293,96" concept="1" />
+      <node id="3951418197003698514" at="293,96,294,17" concept="1" />
+      <node id="3951418197003720764" at="294,17,295,112" concept="1" />
+      <node id="3951418197003721286" at="295,112,296,177" concept="1" />
+      <node id="3951418197003727188" at="296,177,297,201" concept="1" />
+      <node id="3951418197003728308" at="297,201,298,200" concept="1" />
+      <node id="3951418197005221214" at="298,200,299,197" concept="1" />
+      <node id="3951418197003698514" at="299,197,300,22" concept="6" />
+      <node id="3951418197003698514" at="289,0,302,0" concept="8" trace="createDescriptorForRule#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003698514" at="97,38,98,29" />
-      <scope id="3951418197003698514" at="290,62,301,22">
+      <scope id="3951418197003698514" at="289,62,300,22">
         <var name="b" id="3951418197003698514" />
       </scope>
-      <scope id="3951418197003698514" at="290,0,303,0" />
+      <scope id="3951418197003698514" at="289,0,302,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003704583">
@@ -157,19 +157,19 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003704583" at="39,0,40,0" concept="2" trace="myConceptTarget" />
       <node id="3951418197003704583" at="103,40,104,31" concept="6" />
-      <node id="3951418197003704583" at="323,64,324,150" concept="5" />
-      <node id="3951418197003704583" at="324,150,325,34" concept="1" />
-      <node id="3951418197003704583" at="325,34,326,71" concept="1" />
-      <node id="3951418197003704583" at="326,71,327,96" concept="1" />
-      <node id="3951418197003704583" at="327,96,328,17" concept="1" />
-      <node id="3951418197003812757" at="328,17,329,198" concept="1" />
-      <node id="3951418197003704583" at="329,198,330,22" concept="6" />
-      <node id="3951418197003704583" at="323,0,332,0" concept="8" trace="createDescriptorForTarget#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003704583" at="322,64,323,150" concept="5" />
+      <node id="3951418197003704583" at="323,150,324,34" concept="1" />
+      <node id="3951418197003704583" at="324,34,325,71" concept="1" />
+      <node id="3951418197003704583" at="325,71,326,96" concept="1" />
+      <node id="3951418197003704583" at="326,96,327,17" concept="1" />
+      <node id="3951418197003812757" at="327,17,328,198" concept="1" />
+      <node id="3951418197003704583" at="328,198,329,22" concept="6" />
+      <node id="3951418197003704583" at="322,0,331,0" concept="8" trace="createDescriptorForTarget#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003704583" at="103,40,104,31" />
-      <scope id="3951418197003704583" at="323,64,330,22">
+      <scope id="3951418197003704583" at="322,64,329,22">
         <var name="b" id="3951418197003704583" />
       </scope>
-      <scope id="3951418197003704583" at="323,0,332,0" />
+      <scope id="3951418197003704583" at="322,0,331,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003705886">
@@ -192,20 +192,20 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003705886" at="27,0,28,0" concept="2" trace="myConceptCondition" />
       <node id="3951418197003705886" at="79,43,80,34" concept="6" />
-      <node id="3951418197003705886" at="199,67,200,153" concept="5" />
-      <node id="3951418197003705886" at="200,153,201,34" concept="1" />
-      <node id="3951418197003705886" at="201,34,202,71" concept="1" />
-      <node id="3951418197003705886" at="202,71,203,96" concept="1" />
-      <node id="3951418197003705886" at="203,96,204,17" concept="1" />
-      <node id="3951418197003737771" at="204,17,205,117" concept="1" />
-      <node id="3951418197003738553" at="205,117,206,197" concept="1" />
-      <node id="3951418197003705886" at="206,197,207,22" concept="6" />
-      <node id="3951418197003705886" at="199,0,209,0" concept="8" trace="createDescriptorForCondition#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003705886" at="198,67,199,153" concept="5" />
+      <node id="3951418197003705886" at="199,153,200,34" concept="1" />
+      <node id="3951418197003705886" at="200,34,201,71" concept="1" />
+      <node id="3951418197003705886" at="201,71,202,96" concept="1" />
+      <node id="3951418197003705886" at="202,96,203,17" concept="1" />
+      <node id="3951418197003737771" at="203,17,204,117" concept="1" />
+      <node id="3951418197003738553" at="204,117,205,197" concept="1" />
+      <node id="3951418197003705886" at="205,197,206,22" concept="6" />
+      <node id="3951418197003705886" at="198,0,208,0" concept="8" trace="createDescriptorForCondition#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003705886" at="79,43,80,34" />
-      <scope id="3951418197003705886" at="199,67,207,22">
+      <scope id="3951418197003705886" at="198,67,206,22">
         <var name="b" id="3951418197003705886" />
       </scope>
-      <scope id="3951418197003705886" at="199,0,209,0" />
+      <scope id="3951418197003705886" at="198,0,208,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003707397">
@@ -265,22 +265,22 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003708779" at="37,0,38,0" concept="2" trace="myConceptSubject" />
       <node id="3951418197003708779" at="99,41,100,32" concept="6" />
-      <node id="3951418197003708779" at="303,65,304,151" concept="5" />
-      <node id="3951418197003708779" at="304,151,305,34" concept="1" />
-      <node id="3951418197003708779" at="305,34,306,71" concept="1" />
-      <node id="3951418197003708779" at="306,71,307,96" concept="1" />
-      <node id="3951418197003708779" at="307,96,308,17" concept="1" />
-      <node id="3951418197003764208" at="308,17,309,116" concept="1" />
-      <node id="3951418197003767018" at="309,116,310,176" concept="1" />
-      <node id="3951418197003808036" at="310,176,311,202" concept="1" />
-      <node id="3951418197003708779" at="311,202,312,21" concept="1" />
-      <node id="3951418197003708779" at="312,21,313,22" concept="6" />
-      <node id="3951418197003708779" at="303,0,315,0" concept="8" trace="createDescriptorForSubject#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003708779" at="302,65,303,151" concept="5" />
+      <node id="3951418197003708779" at="303,151,304,34" concept="1" />
+      <node id="3951418197003708779" at="304,34,305,71" concept="1" />
+      <node id="3951418197003708779" at="305,71,306,96" concept="1" />
+      <node id="3951418197003708779" at="306,96,307,17" concept="1" />
+      <node id="3951418197003764208" at="307,17,308,116" concept="1" />
+      <node id="3951418197003767018" at="308,116,309,176" concept="1" />
+      <node id="3951418197003808036" at="309,176,310,202" concept="1" />
+      <node id="3951418197003708779" at="310,202,311,21" concept="1" />
+      <node id="3951418197003708779" at="311,21,312,22" concept="6" />
+      <node id="3951418197003708779" at="302,0,314,0" concept="8" trace="createDescriptorForSubject#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003708779" at="99,41,100,32" />
-      <scope id="3951418197003708779" at="303,65,313,22">
+      <scope id="3951418197003708779" at="302,65,312,22">
         <var name="b" id="3951418197003708779" />
       </scope>
-      <scope id="3951418197003708779" at="303,0,315,0" />
+      <scope id="3951418197003708779" at="302,0,314,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003710216">
@@ -303,21 +303,21 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003710216" at="34,0,35,0" concept="2" trace="myConceptResource" />
       <node id="3951418197003710216" at="93,42,94,33" concept="6" />
-      <node id="3951418197003710216" at="271,66,272,152" concept="5" />
-      <node id="3951418197003710216" at="272,152,273,34" concept="1" />
-      <node id="3951418197003710216" at="273,34,274,71" concept="1" />
-      <node id="3951418197003710216" at="274,71,275,96" concept="1" />
-      <node id="3951418197003710216" at="275,96,276,17" concept="1" />
-      <node id="3951418197003781760" at="276,17,277,117" concept="1" />
-      <node id="3951418197003784444" at="277,117,278,168" concept="1" />
-      <node id="3951418197003803604" at="278,168,279,202" concept="1" />
-      <node id="3951418197003710216" at="279,202,280,22" concept="6" />
-      <node id="3951418197003710216" at="271,0,282,0" concept="8" trace="createDescriptorForResource#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003710216" at="270,66,271,152" concept="5" />
+      <node id="3951418197003710216" at="271,152,272,34" concept="1" />
+      <node id="3951418197003710216" at="272,34,273,71" concept="1" />
+      <node id="3951418197003710216" at="273,71,274,96" concept="1" />
+      <node id="3951418197003710216" at="274,96,275,17" concept="1" />
+      <node id="3951418197003781760" at="275,17,276,117" concept="1" />
+      <node id="3951418197003784444" at="276,117,277,168" concept="1" />
+      <node id="3951418197003803604" at="277,168,278,202" concept="1" />
+      <node id="3951418197003710216" at="278,202,279,22" concept="6" />
+      <node id="3951418197003710216" at="270,0,281,0" concept="8" trace="createDescriptorForResource#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003710216" at="93,42,94,33" />
-      <scope id="3951418197003710216" at="271,66,280,22">
+      <scope id="3951418197003710216" at="270,66,279,22">
         <var name="b" id="3951418197003710216" />
       </scope>
-      <scope id="3951418197003710216" at="271,0,282,0" />
+      <scope id="3951418197003710216" at="270,0,281,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003711494">
@@ -377,21 +377,21 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003716988" at="28,0,29,0" concept="2" trace="myConceptEnvironment" />
       <node id="3951418197003716988" at="81,45,82,36" concept="6" />
-      <node id="3951418197003716988" at="209,69,210,155" concept="5" />
-      <node id="3951418197003716988" at="210,155,211,34" concept="1" />
-      <node id="3951418197003716988" at="211,34,212,71" concept="1" />
-      <node id="3951418197003716988" at="212,71,213,96" concept="1" />
-      <node id="3951418197003716988" at="213,96,214,17" concept="1" />
-      <node id="3951418197003791785" at="214,17,215,120" concept="1" />
-      <node id="3951418197003793010" at="215,120,216,168" concept="1" />
-      <node id="3951418197003800546" at="216,168,217,202" concept="1" />
-      <node id="3951418197003716988" at="217,202,218,22" concept="6" />
-      <node id="3951418197003716988" at="209,0,220,0" concept="8" trace="createDescriptorForEnvironment#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003716988" at="208,69,209,155" concept="5" />
+      <node id="3951418197003716988" at="209,155,210,34" concept="1" />
+      <node id="3951418197003716988" at="210,34,211,71" concept="1" />
+      <node id="3951418197003716988" at="211,71,212,96" concept="1" />
+      <node id="3951418197003716988" at="212,96,213,17" concept="1" />
+      <node id="3951418197003791785" at="213,17,214,120" concept="1" />
+      <node id="3951418197003793010" at="214,120,215,168" concept="1" />
+      <node id="3951418197003800546" at="215,168,216,202" concept="1" />
+      <node id="3951418197003716988" at="216,202,217,22" concept="6" />
+      <node id="3951418197003716988" at="208,0,219,0" concept="8" trace="createDescriptorForEnvironment#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003716988" at="81,45,82,36" />
-      <scope id="3951418197003716988" at="209,69,218,22">
+      <scope id="3951418197003716988" at="208,69,217,22">
         <var name="b" id="3951418197003716988" />
       </scope>
-      <scope id="3951418197003716988" at="209,0,220,0" />
+      <scope id="3951418197003716988" at="208,0,219,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003722615">
@@ -469,15 +469,14 @@
       <node id="3951418197003744258" at="191,34,192,71" concept="1" />
       <node id="3951418197003744258" at="192,71,193,96" concept="1" />
       <node id="3951418197003744258" at="193,96,194,17" concept="1" />
-      <node id="3951418197003746003" at="194,17,195,117" concept="1" />
-      <node id="3951418197003747279" at="195,117,196,114" concept="1" />
-      <node id="3951418197003744258" at="196,114,197,22" concept="6" />
-      <node id="3951418197003744258" at="189,0,199,0" concept="8" trace="createDescriptorForAttributeValue#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003747279" at="194,17,195,114" concept="1" />
+      <node id="3951418197003744258" at="195,114,196,22" concept="6" />
+      <node id="3951418197003744258" at="189,0,198,0" concept="8" trace="createDescriptorForAttributeValue#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003744258" at="77,48,78,39" />
-      <scope id="3951418197003744258" at="189,72,197,22">
+      <scope id="3951418197003744258" at="189,72,196,22">
         <var name="b" id="3951418197003744258" />
       </scope>
-      <scope id="3951418197003744258" at="189,0,199,0" />
+      <scope id="3951418197003744258" at="189,0,198,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003751786">
@@ -539,18 +538,18 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003769308" at="38,0,39,0" concept="2" trace="myConceptSubjectType" />
       <node id="3951418197003769308" at="101,45,102,36" concept="6" />
-      <node id="3951418197003769308" at="315,69,316,155" concept="5" />
-      <node id="3951418197003769308" at="316,155,317,34" concept="1" />
-      <node id="3951418197003769308" at="317,34,318,71" concept="1" />
-      <node id="3951418197003769308" at="318,71,319,96" concept="1" />
-      <node id="3951418197003769308" at="319,96,320,17" concept="1" />
-      <node id="3951418197003769308" at="320,17,321,22" concept="6" />
-      <node id="3951418197003769308" at="315,0,323,0" concept="8" trace="createDescriptorForSubjectType#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003769308" at="314,69,315,155" concept="5" />
+      <node id="3951418197003769308" at="315,155,316,34" concept="1" />
+      <node id="3951418197003769308" at="316,34,317,71" concept="1" />
+      <node id="3951418197003769308" at="317,71,318,96" concept="1" />
+      <node id="3951418197003769308" at="318,96,319,17" concept="1" />
+      <node id="3951418197003769308" at="319,17,320,22" concept="6" />
+      <node id="3951418197003769308" at="314,0,322,0" concept="8" trace="createDescriptorForSubjectType#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003769308" at="101,45,102,36" />
-      <scope id="3951418197003769308" at="315,69,321,22">
+      <scope id="3951418197003769308" at="314,69,320,22">
         <var name="b" id="3951418197003769308" />
       </scope>
-      <scope id="3951418197003769308" at="315,0,323,0" />
+      <scope id="3951418197003769308" at="314,0,322,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003777776">
@@ -607,18 +606,18 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003787878" at="35,0,36,0" concept="2" trace="myConceptResourceType" />
       <node id="3951418197003787878" at="95,46,96,37" concept="6" />
-      <node id="3951418197003787878" at="282,70,283,156" concept="5" />
-      <node id="3951418197003787878" at="283,156,284,34" concept="1" />
-      <node id="3951418197003787878" at="284,34,285,71" concept="1" />
-      <node id="3951418197003787878" at="285,71,286,96" concept="1" />
-      <node id="3951418197003787878" at="286,96,287,17" concept="1" />
-      <node id="3951418197003787878" at="287,17,288,22" concept="6" />
-      <node id="3951418197003787878" at="282,0,290,0" concept="8" trace="createDescriptorForResourceType#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003787878" at="281,70,282,156" concept="5" />
+      <node id="3951418197003787878" at="282,156,283,34" concept="1" />
+      <node id="3951418197003787878" at="283,34,284,71" concept="1" />
+      <node id="3951418197003787878" at="284,71,285,96" concept="1" />
+      <node id="3951418197003787878" at="285,96,286,17" concept="1" />
+      <node id="3951418197003787878" at="286,17,287,22" concept="6" />
+      <node id="3951418197003787878" at="281,0,289,0" concept="8" trace="createDescriptorForResourceType#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003787878" at="95,46,96,37" />
-      <scope id="3951418197003787878" at="282,70,288,22">
+      <scope id="3951418197003787878" at="281,70,287,22">
         <var name="b" id="3951418197003787878" />
       </scope>
-      <scope id="3951418197003787878" at="282,0,290,0" />
+      <scope id="3951418197003787878" at="281,0,289,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003795121">
@@ -641,18 +640,18 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003795121" at="29,0,30,0" concept="2" trace="myConceptEnvironmentType" />
       <node id="3951418197003795121" at="83,49,84,40" concept="6" />
-      <node id="3951418197003795121" at="220,73,221,159" concept="5" />
-      <node id="3951418197003795121" at="221,159,222,34" concept="1" />
-      <node id="3951418197003795121" at="222,34,223,71" concept="1" />
-      <node id="3951418197003795121" at="223,71,224,96" concept="1" />
-      <node id="3951418197003795121" at="224,96,225,17" concept="1" />
-      <node id="3951418197003795121" at="225,17,226,22" concept="6" />
-      <node id="3951418197003795121" at="220,0,228,0" concept="8" trace="createDescriptorForEnvironmentType#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003795121" at="219,73,220,159" concept="5" />
+      <node id="3951418197003795121" at="220,159,221,34" concept="1" />
+      <node id="3951418197003795121" at="221,34,222,71" concept="1" />
+      <node id="3951418197003795121" at="222,71,223,96" concept="1" />
+      <node id="3951418197003795121" at="223,96,224,17" concept="1" />
+      <node id="3951418197003795121" at="224,17,225,22" concept="6" />
+      <node id="3951418197003795121" at="219,0,227,0" concept="8" trace="createDescriptorForEnvironmentType#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003795121" at="83,49,84,40" />
-      <scope id="3951418197003795121" at="220,73,226,22">
+      <scope id="3951418197003795121" at="219,73,225,22">
         <var name="b" id="3951418197003795121" />
       </scope>
-      <scope id="3951418197003795121" at="220,0,228,0" />
+      <scope id="3951418197003795121" at="219,0,227,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003814813">
@@ -747,21 +746,21 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003818174" at="31,0,32,0" concept="2" trace="myConceptMatch" />
       <node id="3951418197003818174" at="87,39,88,30" concept="6" />
-      <node id="3951418197003818174" at="236,63,237,149" concept="5" />
-      <node id="3951418197003818174" at="237,149,238,34" concept="1" />
-      <node id="3951418197003818174" at="238,34,239,71" concept="1" />
-      <node id="3951418197003818174" at="239,71,240,96" concept="1" />
-      <node id="3951418197003818174" at="240,96,241,17" concept="1" />
-      <node id="3951418197003819061" at="241,17,242,113" concept="1" />
-      <node id="3951418197005224927" at="242,113,243,169" concept="1" />
-      <node id="3951418197005226333" at="243,169,244,171" concept="1" />
-      <node id="3951418197003818174" at="244,171,245,22" concept="6" />
-      <node id="3951418197003818174" at="236,0,247,0" concept="8" trace="createDescriptorForMatch#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003818174" at="235,63,236,149" concept="5" />
+      <node id="3951418197003818174" at="236,149,237,34" concept="1" />
+      <node id="3951418197003818174" at="237,34,238,71" concept="1" />
+      <node id="3951418197003818174" at="238,71,239,96" concept="1" />
+      <node id="3951418197003818174" at="239,96,240,17" concept="1" />
+      <node id="3951418197003819061" at="240,17,241,113" concept="1" />
+      <node id="3951418197005224927" at="241,113,242,178" concept="1" />
+      <node id="3951418197005226333" at="242,178,243,183" concept="1" />
+      <node id="3951418197003818174" at="243,183,244,22" concept="6" />
+      <node id="3951418197003818174" at="235,0,246,0" concept="8" trace="createDescriptorForMatch#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003818174" at="87,39,88,30" />
-      <scope id="3951418197003818174" at="236,63,245,22">
+      <scope id="3951418197003818174" at="235,63,244,22">
         <var name="b" id="3951418197003818174" />
       </scope>
-      <scope id="3951418197003818174" at="236,0,247,0" />
+      <scope id="3951418197003818174" at="235,0,246,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003822686">
@@ -784,18 +783,18 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3951418197003822686" at="30,0,31,0" concept="2" trace="myConceptFunction" />
       <node id="3951418197003822686" at="85,42,86,33" concept="6" />
-      <node id="3951418197003822686" at="228,66,229,152" concept="5" />
-      <node id="3951418197003822686" at="229,152,230,34" concept="1" />
-      <node id="3951418197003822686" at="230,34,231,71" concept="1" />
-      <node id="3951418197003822686" at="231,71,232,96" concept="1" />
-      <node id="3951418197003822686" at="232,96,233,17" concept="1" />
-      <node id="3951418197003822686" at="233,17,234,22" concept="6" />
-      <node id="3951418197003822686" at="228,0,236,0" concept="8" trace="createDescriptorForFunction#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3951418197003822686" at="227,66,228,152" concept="5" />
+      <node id="3951418197003822686" at="228,152,229,34" concept="1" />
+      <node id="3951418197003822686" at="229,34,230,71" concept="1" />
+      <node id="3951418197003822686" at="230,71,231,96" concept="1" />
+      <node id="3951418197003822686" at="231,96,232,17" concept="1" />
+      <node id="3951418197003822686" at="232,17,233,22" concept="6" />
+      <node id="3951418197003822686" at="227,0,235,0" concept="8" trace="createDescriptorForFunction#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3951418197003822686" at="85,42,86,33" />
-      <scope id="3951418197003822686" at="228,66,234,22">
+      <scope id="3951418197003822686" at="227,66,233,22">
         <var name="b" id="3951418197003822686" />
       </scope>
-      <scope id="3951418197003822686" at="228,0,236,0" />
+      <scope id="3951418197003822686" at="227,0,235,0" />
     </file>
   </root>
   <root nodeRef="r:b50a6759-538a-42a4-9677-fc7bf90835ec(HOBACITv2.structure)/3951418197003824042">
